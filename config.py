@@ -10,7 +10,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 DOWNLOAD_DIR = os.getenv("DOWNLOAD_DIR", os.path.join(os.path.dirname(os.path.abspath(__file__)), "downloads"))
 DATABASE_PATH = os.getenv("DATABASE_PATH", os.path.join(os.path.dirname(os.path.abspath(__file__)), "bot.db"))
 MONGODB_URI = os.getenv("MONGODB_URI", "").strip()
-MONGO_DB_NAME = os.getenv("MONGO_DB_NAME", "Raretoon1").strip() or "Raretoon1"
+MONGO_DB_NAME = os.getenv("MONGO_DB_NAME", "Raretoon2").strip() or "Raretoon2"
 
 BASE_URL = "https://www.rareanimes.mov"
 CODEDEW_BASE = "https://codedew.com"
