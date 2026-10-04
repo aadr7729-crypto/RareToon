@@ -1,0 +1,22 @@
+=== Testing search_anime ===
+Found 383 results
+  Season 1 -> https://www.rareanimes.mov/hindi/naruto-season-1-hindi-dubbed-episodes-download-
+  Season 2 -> https://www.rareanimes.mov/hindi/naruto-season-2-hindi-episodes-download-hd/
+  Season 3 -> https://www.rareanimes.mov/hindi/naruto-season-3-hindi-episodes-download-hd/
+  Season 4 -> https://www.rareanimes.mov/hindi/naruto-season-4-hindi-episodes-download-hd/
+  Season 5 -> https://www.rareanimes.mov/hindi/naruto-season-5-episodes-hindi-dubbed-download-
+
+=== Testing get_anime_page_info ===
+Title: Naruto Season 1 Hindi Dubbed Episodes Download HD - Rare Toons India
+Status: completed
+Languages: ['hindi']
+Categories: ['Movies', 'Movies', 'Movies', 'Animes', 'COMPLETED', 'Hindi Dub', 'Naruto', 'POPULAR SHOWS', 'Sony Yay']
+WatchMQ URL: None
+Is season page: False
+Episode count: 0
+
+=== Testing get_season_episodes ===
+
+=== Testing resolve_download_url ===
+
+=== Done ===

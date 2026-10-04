@@ -1,0 +1,10 @@
+Fetching: https://codedew.com/zipper/?url=HQGt0w9e4pRt7Tp2SeWiFZeQARhKZ2ijEJQp8DsgVRo6NCLT
+Final URL: https://codedew.com/zipper/?url=HQGt0w9e4pRt7Tp2SeWiFZeQARhKZ2ijEJQp8DsgVRo6NCLT
+Status: 400
+Response length: 15
+
+=== Raw HTML (first 5000 chars) ===
+Invalid request
+
+=== Last 2000 chars ===
+Invalid request

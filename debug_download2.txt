@@ -1,0 +1,78 @@
+goBtn found at index 22184
+ref="javascript:void(0);" data-href="/zipper/?url=lYoP1KHWD2nCqSnCKSxNPJc0oTx0%2BwtMUhwWRsVfL44ygqvMVIQaFjm1khNpipqS%2BHCYm6bU4tJidvWO91XwLWckv%2BG%2BWGuTmm35YPFh8Oc%3D&amp;ad_done=1" class="btn" id="goBtn" onclick="if (!window.__cfRLUnblockHandlers) return false; handleClick(event)" data-cf-modified-b4c404d9dbeb53797cef77e8-="">
+            <span id="btnTxt">Scanning Link...</span>
+        </a>
+        
+        <div class="footer-info">STEP 1 OF 3 • SAFETY CHECKED</div>
+    </div>
+
+    <footer class="rai-footer">
+        <strong>Thanks for visiting RAI</strong> <span class="hifi-wave">👋</span><span class="hifi-sparkle">✨</span>
+    </footer>
+
+    <!-- Multi-Theme Switcher -->
+    <div style="display:flex; justify-content:center; align-items:center; gap:8px; margin-top:12px;" id="themeSwitcher">
+        <span style="font-size:0.6rem; color:var(--apple-muted); font-weight:700; text-transform:uppercase; letter-spacing:0.1em;">Theme:</span>
+        <button class="theme-btn active" data-theme="violet" style="width:14px; height:14px; border-radius:50%; background:#7B22FA; border:1px solid #fff; cursor:pointer;" title="Neon Violet"></button>
+        <button class="theme-btn" data-theme="emerald" style="width:14px; height:14px; border-radius:50%; background:#00e676; border:1px solid rgba(255,255,255,0.3); cursor:pointer;" title="Emerald Cyber"></button>
+        <button class="theme-btn" data-theme="sapphire" style="width:14px; height:14px; border-radius:50%; background:#00b0ff; border:1px solid rgba(255,255,255,0.3); cursor:pointer;" title="Sapphire Blue"></button>
+        <button class="theme-btn" data-theme="sakura" style="width:14px; height:14px; border-radius:50%; background
+
+---
+
+handleClick found at index 22249
+tificates.</p>
+
+        <div class="notice">⚠ Please minimize / ignore any pop-up ads and press button below.</div>
+
+        <div class="timer-bar">
+            <div class="timer-fill" id="timerFill"></div>
+        </div>
+
+        <a href="javascript:void(0);" data-href="/zipper/?url=lYoP1KHWD2nCqSnCKSxNPJc0oTx0%2BwtMUhwWRsVfL44ygqvMVIQaFjm1khNpipqS%2BHCYm6bU4tJidvWO91XwLWckv%2BG%2BWGuTmm35YPFh8Oc%3D&amp;ad_done=1" class="btn" id="goBtn" onclick="if (!window.__cfRLUnblockHandlers) return false; handleClick(event)" data-cf-modified-b4c404d9dbeb53797cef77e8-="">
+            <span id="btnTxt">Scanning Link...</span>
+        </a>
+        
+        <div class="footer-info">STEP 1 OF 3 • SAFETY CHECKED</div>
+    </div>
+
+    <footer class="rai-footer">
+        <strong>Thanks for visiting RAI</strong> <span class="hifi-wave">👋</span><span class="hifi-sparkle">✨</span>
+    </footer>
+
+    <!-- Multi-Theme Switcher -->
+    <div style="display:flex; justify-content:center; align-items:center; gap:8px; margin-top:12px;" id="themeSwitcher">
+        <span style="font-size:0.6rem; color:var(--apple-muted); font-weight:700; text-transform:uppercase; letter-spacing:0.1em;">Theme:</span>
+        <button class="theme-btn active" data-theme="violet" style="width:14px; height:14px; border-radius:50%; background:#7B22FA; border:1px solid #fff; cursor:pointer;" title="Neon Violet"></button>
+        <button class="theme-btn" data-theme="emerald" style="width:14px; height:14px; border-radius:50%; background:#00e676; border:1px solid rgba(255,255,255,0.3); cursor:pointer;" title="Emerald Cyber"></button>
+        <button class="theme-btn" data-theme="sapphire" style="width:14px; height:14px; border-radius:50%; background:#00b0ff; border:1px solid rgba(255,255,255,0.3); cursor:pointer;" title="Sapphire Blue"></button>
+        <button class="theme-btn" data-theme="sakura" style="width:14px; height:14px; border-radius:50%; background:#f472b6; border:1px solid rgba(255,255,255,0.3); cursor:pointer;" title="Sakura Pink"></button>
+    </div>
+
+    <script type="b4c404d9dbeb53797cef77e8-text/javascript">
+        var timeLeft = 5;
+        var btn = document.getElementById('goBtn');
+        var txt = document.getElementById('btnTxt');
+        var fill = document.getElementById('timerFill');
+        var ready = 'Continue to Link Generation →';
+
+        setTimeout(function() { fill.style.width = '100%'; }, 80);
+
+        function handleClick(e) {
+            if (!btn.classList.contains('active')) { e.preventDefault(); return; }
+            e.preventDefault();
+            btn.style.opacity = '0.75';
+            var t = btn.getAttribute('data-href');
+            setTimeout(function() { window.location.href = t; }, 200);
+        }
+
+        var cdown = setInterval(function() {
+            timeLeft--;
+            if (timeLeft <= 0) {
+                clearInterval(cdown);
+                txt.textContent = ready;
+                btn.classList.add('active');
+            }
+        }, 1000);
+
+    

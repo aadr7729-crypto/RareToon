@@ -1,0 +1,16 @@
+=== STEP 1: Initial download link ===
+Status: 200, Final URL: https://codedew.com/zipper/?url=lYoP1KHWD2nCqSnCKSxNPJc0oTx0%2BwtMUhwWRsVfL44ygqvMVIQaFjm1khNpipqS%2BHCYm6bU4tJidvWO91XwLWckv%2BG%2BWGuTmm35YPFh8Oc%3D, Length: 26984
+data-href: /zipper/?url=lYoP1KHWD2nCqSnCKSxNPJc0oTx0%2BwtMUhwWRsVfL44ygqvMVIQaFjm1khNpipqS%2BHCYm6bU4tJidvWO91XwLWckv%2BG%2BWGuTmm35YPFh8Oc%3D&ad_done=1
+
+=== STEP 2: Following data-href ===
+URL: https://codedew.com/zipper/?url=lYoP1KHWD2nCqSnCKSxNPJc0oTx0%2BwtMUhwWRsVfL44ygqvMVIQaFjm1khNpipqS%2BHCYm6bU4tJidvWO91XwLWckv%2BG%2BWGuTmm35YPFh8Oc%3D
+Status: 200, Final URL: https://codedew.com/zipper/?url=lYoP1KHWD2nCqSnCKSxNPJc0oTx0%2BwtMUhwWRsVfL44ygqvMVIQaFjm1khNpipqS%2BHCYm6bU4tJidvWO91XwLWckv%2BG%2BWGuTmm35YPFh8Oc%3D&ad_done=1, Length: 26878
+step2 data-href: https://codedew.com/cdn/ziptron.php/?w0uQXBUgiC7svgD
+
+=== STEP 3: Following step2 data-href ===
+URL: https://codedew.com/cdn/ziptron.php/?w0uQXBUgiC7svgD
+Status: 200, Final URL: https://codedew.com/cdn/ziptron.php/?w0uQXBUgiC7svgD, Length: 2038
+
+=== STEP 3: All links ===
+
+=== STEP 3: Looking for download/quality links ===

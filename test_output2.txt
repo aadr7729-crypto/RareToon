@@ -1,0 +1,23 @@
+=== Testing get_anime_page_info (Season 16) ===
+Title: Naruto Shippuden Season 16 – Episodes Hindi Dubbed Download HD - Rare Toons India
+Status: completed
+Languages: ['hindi', 'bengali', 'malayalam', 'tamil', 'telugu']
+Categories: ['Movies', 'Movies', 'Movies', 'Animes', 'Bengali', 'Hindi Dub', 'Malayalam', 'Naruto', 'POPULAR SHOWS', 'Sony Yay', 'Tamil', 'Telugu']
+WatchMQ URL: https://codedew.com/zipper/?url=loYaWAQwJS22TgVGAf6gFWgGhHdB33%2BmlFzhtsevkucE7pzY1GHN21E%2F%2BNBsK2
+Is season page: True
+Episode count: 76
+All MQ links: 14
+All Now links: 62
+
+=== Testing get_season_episodes (Season 16) ===
+Found 14 episodes
+  S1E1 -> https://codedew.com/zipper/?url=HQGt0w9e4pRt7Tp2SeWiFZeQARhKZ2ijEJQp8DsgVRo6NCLT
+  S1E2 -> https://codedew.com/zipper/?url=xPLk0POFhwwpv74fgLx8kXq152eYk9n%2BiyQO6ZU2bi0NFN
+  S1E3 -> https://codedew.com/zipper/?url=gjrRfty2AJGPOojIT6QttdT7SZL1dZz8c7odz6sj%2FRCoEA
+  ... and 11 more
+
+=== Testing resolve_download_url (first episode) ===
+URL: https://codedew.com/zipper/?url=HQGt0w9e4pRt7Tp2SeWiFZeQARhKZ2ijEJQp8DsgVRo6NCLT
+Error: No download button found on step 1 page
+
+=== Done ===

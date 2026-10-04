@@ -1,0 +1,47 @@
+=== Button/anchor with 'Scanning' ===
+<a href="/" class="header-logo-link">
+            <img src="https://wsrv.nl/?url=https://www.rareanimes.mov/wp-content/uploads/2023/11/Rare-Animes-India.png?output=webp&il=1&maxage=1y&cbg=white&q=10" alt="Rare Animes India Logo" class="header-logo-img">
+        </a>
+    </header>
+
+    <div style="position:absolute;top:0;left:0;width:1px;height:1px;overflow:hidden;z-index:9999;">
+        <script data-cfasync="false" async type="text/javascript" src="//zd.cozieswarned.com/rFKy8H7X09bVyexrx/135799"
+
+
+=== All onclick handlers ===
+if (!window.__cfRLUnblockHandlers) return false; handleClick(event)
+
+
+=== Iframes ===
+
+=== Script tags ===
+Script (188 chars): (function(s){s.dataset.zone='10853366',s.src='https://llvpn.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))
+
+Script (1645 chars): var timeLeft = 5;
+        var btn = document.getElementById('goBtn');
+        var txt = document.getElementById('btnTxt');
+        var fill = document.getElementById('timerFill');
+        var ready = 'Continue to Link Generation →';
+
+        setTimeout(function() { fill.style.width = '100%'; }, 80);
+
+        function handleClick(e) {
+            if (!btn.classList.contains('active')) { e.preventDefault(); return; }
+            e.preventDefault();
+            btn.style.opacity = '0.75';
+         
+
+Script (921 chars): (function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a42ab2592d49f8dc',t:'MTc5MDY4MTg1NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.
+
+
+=== All HTTP URLs in raw HTML ===
+  https://llvpn.com/tag.min.js
+  https://wsrv.nl/?url=https://www.rareanimes.mov/wp-content/uploads/2023/11/Rare-Animes-India.png?output=webp&il=1&maxage=1y&cbg=white&q=10
+  https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495
+  http://www.w3.org/2000/svg
+
+=== Looking for .js file references ===
+  https://llvpn.com/tag.min.js
+  /cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+  /cdn-cgi/challenge-platform/scripts/jsd/main.js
+  https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495

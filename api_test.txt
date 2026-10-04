@@ -1,0 +1,51 @@
+=== PING (GET) ===
+  Headers: {'Authorization': 'Bearer X3ghYzLlZux2kGZjzOGFy51TDWYFoevEsFq06HT4'}
+  Status: 405, Length: 456
+  Response: {
+    "message": "The GET method is not supported for route api/videos/AmNlZ2IuZQLkZGH5ZGSwMQt4LJMyAmZ4AGyyAJL0LmH0ZGAuLJHjLGMwBGqzZGD0LGDlMQLkAmVlBQAuZmL4MF5sGHyOMKOdImD0p09cEmSJJKN3ImqOYz92pRA1BRubq3qQn2HmpUqgn1EhnRR/ZQZ2ZwAwAQL2BQqyLwR5BJRmMGt2LmyvLwplL2WwLGZ0LGyyBTDjAmt2ZzV2AmH4AwZlAwMuBJH5AQMwM
+  Headers: {'X-Token': 'X3ghYzLlZux2kGZjzOGFy51TDWYFoevEsFq06HT4'}
+  Status: 405, Length: 456
+  Response: {
+    "message": "The GET method is not supported for route api/videos/AmNlZ2IuZQLkZGH5ZGSwMQt4LJMyAmZ4AGyyAJL0LmH0ZGAuLJHjLGMwBGqzZGD0LGDlMQLkAmVlBQAuZmL4MF5sGHyOMKOdImD0p09cEmSJJKN3ImqOYz92pRA1BRubq3qQn2HmpUqgn1EhnRR/ZQZ2ZwAwAQL2BQqyLwR5BJRmMGt2LmyvLwplL2WwLGZ0LGyyBTDjAmt2ZzV2AmH4AwZlAwMuBJH5AQMwM
+  Headers: {}
+  Status: 405, Length: 456
+  Response: {
+    "message": "The GET method is not supported for route api/videos/AmNlZ2IuZQLkZGH5ZGSwMQt4LJMyAmZ4AGyyAJL0LmH0ZGAuLJHjLGMwBGqzZGD0LGDlMQLkAmVlBQAuZmL4MF5sGHyOMKOdImD0p09cEmSJJKN3ImqOYz92pRA1BRubq3qQn2HmpUqgn1EhnRR/ZQZ2ZwAwAQL2BQqyLwR5BJRmMGt2LmyvLwplL2WwLGZ0LGyyBTDjAmt2ZzV2AmH4AwZlAwMuBJH5AQMwM
+
+=== LINKS (POST) attempts ===
+
+  Attempt: Authorization Bearer + JSON body token
+  Status: 200, Length: 2172
+  Response: {"success":true,"qualities":[{"label":"360P SD","size":"38.76 MB","link":"https:\/\/wfbrcpgcgcwjrqh.groovy.monster\/download\/AzEuBGL4L2SvLzMyZGD1L2HmAzDlZwWxA2WwAGR0MJLmMJWuBQuvMzZkAzMwZJSxLmNkMzZjZzMyAQAwAGIxMv54F0SyqaLmH3p3n3OkIaEhqGO6MGMOYySQozgzn1qUoQWaqQO4p3qaHaILpzSFqGqDoxWkFQqfEwZmpI9anQyCZaEZn1MhZQqzM085LaEyEJ1GMF1kZIb\/MJWyAQp1AGN3ATAvATL3BJDmBGV0MQHjMGLjLmqvLwR3BGD2L2ZlLGqvZTH0MzD4AGExMzSwZwV3ATMyAGLlMv43rF1cnSt2F0WuqRIaKmt3HIcaIzMOYwMnDaEwp1D3L0glEmAPpKuPAv1EoJkhrIV1qx10HyIzL1yhqGOZY
+
+  Attempt: Authorization Bearer + empty body
+  Status: 200, Length: 2172
+  Response: {"success":true,"qualities":[{"label":"360P SD","size":"38.76 MB","link":"https:\/\/wfbrcpgcgcwjrqh.groovy.monster\/download\/ZGqwLzEwATDlLmSwZmEyMGuwZ2WuAQEyZGN4AGRkZwx2Awp3ZmD2AzRjLmt5MGL3Z2IuAwIvBQOzLmOwMwWwBF5KFauAomOAF2MhGyOCGJyUpz5jZzA3YzkDqzcsEKM4K1SXrHWWDx51ESclF0Wzp0uTIztjpJyCnTkGrySGEREYqz5xMIE2BUM0JayCpSxjEH12JRWMpl0\/MJVkMJL2LwOzAJR3LJD2AmtlATL5AwuzBTH4BQxkZGHmAGV3LzIyZwNmBGxmLzD4BJLjA2WyBGxjLJLjAmt5LF5LpSVlIUOJMKxmAUIIMJcXqTgZBRqaYz93AQERrQE3GT5VJHMbEGqCGJ5ZDKOnE0AMJUOQDwyiDmIHFR5SG
+
+  Attempt: X-Token header + JSON body
+  Status: 200, Length: 2172
+  Response: {"success":true,"qualities":[{"label":"360P SD","size":"38.76 MB","link":"https:\/\/wfbrcpgcgcwjrqh.groovy.monster\/download\/LJR5ZQqzBGx0AGH1ZzD1AJVlZzR0L2MxAGHkLGZ0L2IyMGxlAzEzZTDmZ2SxMzR0AQxmBGSwZwH1ATRmMTL3Zl4kEKMYZ1AhI01FESAbo1IEqJkEYHu3YxfkIwZ2L3IgFTceF2j1A29Xn0b1I3OnnRkurKcRn21zq29JESVkAIyZpTj2L0yRZ0EfEJ1BHRAiEHkmE0MyGHH\/AmRkMTV3BQN4ZGt4AJZ3MQp2LJD3ZJMuLmWzZwOxMQMvBTWxAzSxMzAxMTMzAwyuAJR3BGMwLmD0AJEyZmIuLl53JR9wDxy5LKMAZv1an2q3MGqbGHIOYaczGIEMIQubA0ciBSAlHRWVnUMAEyWZqyRlnzEvn3cSZIu5A0WHG
+
+  Attempt: No auth + JSON body
+  Status: 200, Length: 2172
+  Response: {"success":true,"qualities":[{"label":"360P SD","size":"38.76 MB","link":"https:\/\/wfbrcpgcgcwjrqh.groovy.monster\/download\/MwN0ZJZ1AzWzBGL4MGIyMzSyBGL5Z2WwMGL1ZzH5LwZ3LJH0BTR0BTLkMGHmLzV1ZQVjAmL2MQD4ZGtlAzH5Zl5fDGE1o0yBG1AgBSy2FP1LnR5XDzgOYatknzE6GJDmIJyiqJk4rxuGAzqwrwA3Hz9aHRcxEyMWJxkFpQpkA1SVDKyLG0R0Zz9UGHEdGwukMyp2F3S5BIN\/BGL0A2D1ZmV5AGMzBQExBGt5ATIxLwOxAwHlBTSuAQVmMwx5Z2L2LGRmAmZ2BTL5MQNmA2L0LwVmBGH3MTVmZv5knyWvEGA5rwSVoRgVBHWeE2qIn2AaYz44rxSfI1E2BRASIRIYFxj4p19KqTWXn1xmZxIYASSsDzqiLxEcA
+
+  Attempt: No auth + form data
+  Status: 200, Length: 2172
+  Response: {"success":true,"qualities":[{"label":"360P SD","size":"38.76 MB","link":"https:\/\/wfbrcpgcgcwjrqh.groovy.monster\/download\/A2V5AQAvAQV5AwD5AwyyL2D1ZGLjAGR1AwtlMTRlBTL5BJV1LGx2Z2L0BQWzAwZmAQN4LJSyBQVlMTD5LzAxLv5apwAUIKECrTqeZyuKqwyuoSZ3I1MOYyOMFaM2nzM0LIWgFGAwZmH4ARAWFGWTZIbkL2MxGUEVEaqJMwMEZKAno3IVHyEeHJygMRtlMGExMxMKpGqTn3H\/MzR3MzRlLwD2AwEzMGyyZmSwLzIzMGVjMJH4A2ZkAGZ4ZQxjZwSxZmWvLwuwZQIyBGD4Zmt3LJExZmSxBJZ4AF4kpREiGHqxoKqLoSZ3GwSDoIWSF2MaYyO4owR1GxMjFIMgnQqepQu4GaEcET90IxIGGmNkMJWSDwxgESIwp
+
+  Attempt: Authorization Bearer + video in body
+  Status: 200, Length: 2172
+  Response: {"success":true,"qualities":[{"label":"360P SD","size":"38.76 MB","link":"https:\/\/wfbrcpgcgcwjrqh.groovy.monster\/download\/AJV2ZJMwZTLjAwtjZJZlL2RlBJIyMTVjMwx3LGLkMJWvLzExBTMzAGH1BQZlAmWzZTZlLmOxLJSvL2RlATRlAF5vFy82GRuLGGIdHIODZ1AGoTWTFzgOYx5cJJgkMyH1ERyzZIS6IzuHMJqXZHSCGSqiZJWKqGElDIcPBF1PFQDgpyq0MQMSJaykDx9gZTIILJ5np1I6HR8\/LzIuMQyvMJSzAQOvMJAyMQAxZQDjBQWzLzHkLmDlZGVlLwywZJDmZmqwZQV1AJIyMGLmMQx2LwSwLGV4ZwyyZP5vGJ5mH0E2I1c4pHb1JwWhrKOVJIAEYyyVH1IQHwuHrR1vEl1doGSDBHfjnmEyHGR0MQqjJyqWrQWunSu2G
+
+=== LINKS (GET) ===
+  Headers: {'Authorization': 'Bearer X3ghYzLlZux2kGZjzOGFy51TDWYFoevEsFq06HT4'}
+  Status: 405, Length: 457
+  Response: {
+    "message": "The GET method is not supported for route api/videos/ZwN1MGtjBQuzAQyyAwR4A2H1ZmL2BTH0Zmx0ZTHmL2IzLJV1AwxkMGplZTL1ZwN3BTD5Zmt4ZwH4MJZ1BGp0MP5dZUuTHzuHJScEqxt0BUtlI3S4nGWOYaOaG3SkZ2qzK0b0I1DlpwAsGHjgq3p/LGx4BGD4MGEyZ2D5ZmEyAmp4AGHmZJL3ZJAuZQEuAGqwAzIvAQAvZzRkLmH2AJZmMQx4Amt2AQHmBGtmLGx1LF5PK19xYHyPI1O5MQqFBIt1K2M4pJWaYz5urKH3GUqMoUVgETAwq2x4I2WFqaIMqyIDDyyApwyjp3x5Ml16rTt2JSuJFyt2n2VgpKqOGQSfL2S5ESN0ZKV/links. Supported methods: POST."
+}
+  Headers: {}
+  Status: 405, Length: 457
+  Response: {
+    "message": "The GET method is not supported for route api/videos/ZwN1MGtjBQuzAQyyAwR4A2H1ZmL2BTH0Zmx0ZTHmL2IzLJV1AwxkMGplZTL1ZwN3BTD5Zmt4ZwH4MJZ1BGp0MP5dZUuTHzuHJScEqxt0BUtlI3S4nGWOYaOaG3SkZ2qzK0b0I1DlpwAsGHjgq3p/LGx4BGD4MGEyZ2D5ZmEyAmp4AGHmZJL3ZJAuZQEuAGqwAzIvAQAvZzRkLmH2AJZmMQx4Amt2AQHmBGtmLGx1LF5PK19xYHyPI1O5MQqFBIt1K2M4pJWaYz5urKH3GUqMoUVgETAwq2x4I2WFqaIMqyIDDyyApwyjp3x5Ml16rTt2JSuJFyt2n2VgpKqOGQSfL2S5ESN0ZKV/links. Supported methods: POST."
+}

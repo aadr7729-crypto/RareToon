@@ -1,0 +1,26 @@
+Found 'S16 E11' at index 35056
+Context (500 chars before, 500 chars after):
+i class="fa-solid fa-expand"></i>
+                            </button>
+
+                                                            <a href="https://codedew.com/zipper/?url=lYoP1KHWD2nCqSnCKSxNPJc0oTx0%2BwtMUhwWRsVfL44ygqvMVIQaFjm1khNpipqS%2BHCYm6bU4tJidvWO91XwLWckv%2BG%2BWGuTmm35YPFh8Oc%3D" target="_blank" rel="noopener"
+                                    class="btn-dl focusable" tabindex="0" id="mainActionBtn">
+                                    <i class="fa-solid fa-cloud-arrow-down"></i> S16 E11                                </a>
+                            
+                            <button class="btn-round btn-wl focusable" id="wlBtn" tabindex="0" onclick="if (!window.__cfRLUnblockHandlers) return false; toggleWatchlist()" data-cf-modified-520c7a7a600a7be1bdeea4e6-="">
+                                <i class="fa-solid fa-heart"></i>
+                            </button>
+
+                                                    </div>
+                    </div>
+                <
+
+
+=== Looking for Vue/JS directives ===
+
+=== All <a tags ===
+<a href="https://www.rareanimes.mov" target="_blank" rel="noopener noreferrer">
+<a href="https://codedew.com/zipper/?url=lYoP1KHWD2nCqSnCKSxNPJc0oTx0%2BwtMUhwWRsVfL44ygqvMVIQaFjm1khNpipqS%2BHCYm6bU4tJidvWO91XwLWckv%2BG%2BWGuTmm35YPFh8Oc%3D" target="_blank" rel="noopener"
+        
+<a href="javascript:void(0)" onclick="if (!window.__cfRLUnblockHandlers) return false; location.href='?url=yzoxEH8JRLTF74o'" class="nav-btn focusable" tabindex="0" data-cf-modified-520c7a7a600a7be1bde
+<a href="javascript:void(0)" onclick="if (!window.__cfRLUnblockHandlers) return false; location.href='?url=xw8QNC5Ndy1U59J'" class="nav-btn focusable" tabindex="0" id="nextBtn" data-cf-modified-520c7a

@@ -1,0 +1,26 @@
+POST Status: 200
+Final URL: https://codedew.com/cdn/liptron.php/
+Content-Type: text/html; charset=UTF-8
+Content-Length: 21961
+Saved to final_page.html
+
+Redirect history: []
+
+=== All links in final page ===
+  https://t.co/i3X9YgVhgW
+
+=== Quality/download patterns ===
+  ...    <title>MultiQuality - Download</title>...
+  ...                <h1>MultiQuality Download</h1>...
+  ...                <a href="https://t.co/i3X9YgVhgW" class="action-button">Download More Anime</a>...
+
+=== All HTTP URLs ===
+  https://argon.razorshell.space/downlead/w0uQXBUgiC7svgD/
+  https://t.co/i3X9YgVhgW
+  https://t.co/0zjSPDumHQ
+
+=== Visible text (first 3000 chars) ===
+MultiQuality - Download
+MultiQuality Download
+Download More Anime
+This site does not store any files on its own server. We only index links from the internet.

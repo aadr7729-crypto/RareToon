@@ -1,0 +1,123 @@
+Fetching codedew link: https://codedew.com/zipper/?url=eCltViTs0eZK5Pq806AmzjCdZUpHbuXpKD7yxjHHOMq9MS4fXUR3wCe3bPjYHlJxH9Rj...
+Status: 200
+Final URL: https://codedew.com/multiquality/?url=w0uQXBUgiC7svgD
+Content length: 279987
+
+=== All links with href ===
+  Text: '' -> https://www.rareanimes.mov
+  Text: 'S16 E11' -> https://codedew.com/zipper/?url=u0iNHClVRbUOh4CXqA6uaHChRdmpjTVHGecFXPS6dA63dc6CNYE468IB2CE76XKUHWPz%2BtdJYcv9IV39BHosXLnb1HaA0naJWenZtXiyFkw%3D
+  Text: 'S16 E10' -> javascript:void(0)
+  Text: 'S16 E12' -> javascript:void(0)
+
+=== Forms ===
+
+=== Buttons (button tags) ===
+  Button: 'Read more' onclick=if (!window.__cfRLUnblockHandlers) return false; toggleReadMore()
+  Button: '' onclick=if (!window.__cfRLUnblockHandlers) return false; toggleFullScreen()
+  Button: '' onclick=if (!window.__cfRLUnblockHandlers) return false; toggleWatchlist()
+  Button: '❮' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('wlRow', -1)
+  Button: '❯' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('wlRow', 1)
+  Button: '❮' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('relatedRow', -1)
+  Button: '❯' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('relatedRow', 1)
+  Button: '❮' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('trendRow', -1)
+  Button: '❯' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('trendRow', 1)
+  Button: '❮' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('movieRow', -1)
+  Button: '❯' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('movieRow', 1)
+  Button: '❮' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('histRow', -1)
+  Button: '❯' onclick=if (!window.__cfRLUnblockHandlers) return false; scrollSection('histRow', 1)
+
+=== Script src URLs ===
+  Script: //zd.cozieswarned.com/rFKy8H7X09bVyexrx/135799
+  Script: /cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+  Script: https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495
+
+=== Inline scripts (non-empty, short) ===
+
+=== divs with class containing 'episode', 'download', 'quality' ===
+
+=== Possible video/download links (extensions) ===
+   -> https://www.rareanimes.mov
+
+=== Elements with data-* attributes ===
+
+=== Visible text (first 80 lines) ===
+  Naruto Shippūden - Rare Animes India
+  Notification
+  Naruto Shippūden
+  S16                                    E11
+  HD
+  25m
+  Hindi
+  Animation
+  Action & Adventure
+  Sci-Fi & Fantasy
+  After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as 
+  Read more
+  S16 E11
+  S16 E10
+  S16 E12
+  My Watchlist
+  ❮
+  ❯
+  Seasons & Movies
+  ❮
+  Season 1
+  32 EPS
+  2007
+  Season 10
+  25 EPS
+  2007
+  Season 11
+  21 EPS
+  2007
+  Season 12
+  33 EPS
+  2007
+  Season 13
+  20 EPS
+  2007
+  Season 14
+  25 EPS
+  2007
+  Season 15
+  28 EPS
+  2007
+  Season 16
+  13 EPS
+  2007
+  Season 17
+  11 EPS
+  2007
+  Season 2
+  21 EPS
+  2007
+  Season 3
+  18 EPS
+  2007
+  Season 4
+  17 EPS
+  2007
+  Season 5
+  24 EPS
+  2007
+  Season 6
+  31 EPS
+  2007
+  Season 7
+  8 EPS
+  2007
+  Season 8
+  24 EPS
+  2007
+  Season 9
+  21 EPS
+  2007
+  ❯
+  Popular Series
+  ❮
+  Overgeared
+  Hindi
+  S1                                                    E1
+  As a Reincarnated Aristocrat, I'll Use My Appraisal Skill
+  Hindi
+  S3                                                    E1
